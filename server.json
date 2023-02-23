@@ -39,6 +39,22 @@
       "category": "Gastos",
       "price": 190,
       "createdAt": "2023-02-23T14:33:40.103Z"
+    },
+    {
+      "description": "Compra de Pizza",
+      "price": 200,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-23T20:48:09.352Z",
+      "id": 6
+    },
+    {
+      "description": "13º Salário",
+      "price": 8000,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2023-02-23T21:11:18.293Z",
+      "id": 7
     }
   ]
 }
