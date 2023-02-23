@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-02-23T14:30:40.103Z"
+    },
+    {
+      "id": 2,
+      "description": "Vacinação Roberta",
+      "type": "outcome",
+      "category": "Gastos",
+      "price": 1000,
+      "createdAt": "2023-02-23T14:33:40.103Z"
+    },
+    {
+      "id": 3,
+      "description": "Salário mês de Fevereiro",
+      "type": "income",
+      "category": "Salário",
+      "price": 4000,
+      "createdAt": "2023-02-23T14:30:40.103Z"
+    },
+    {
+      "id": 4,
+      "description": "Freela Showmethecode",
+      "type": "income",
+      "category": "Freelancer",
+      "price": 1000,
+      "createdAt": "2023-02-23T14:30:40.103Z"
+    },
+    {
+      "id": 5,
+      "description": "Taxa de Incêndio",
+      "type": "outcome",
+      "category": "Gastos",
+      "price": 190,
+      "createdAt": "2023-02-23T14:33:40.103Z"
+    }
+  ]
+}
